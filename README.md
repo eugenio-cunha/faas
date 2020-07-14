@@ -1,0 +1,2 @@
+# faas
+Hello OpenFaas
