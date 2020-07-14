@@ -1,0 +1,9 @@
+version: 1.0
+provider:
+  name: hello
+  gateway: http://172.17.0.2:31112
+functions:
+  hello:
+    lang: node12
+    handler: ./hello
+    image: hello:latest

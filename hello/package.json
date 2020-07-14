@@ -1,0 +1,12 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Hello OpenFaas",
+  "main": "handler.js",
+  "scripts": {
+    "start": "node handler.js"
+  },
+  "keywords": [],
+  "author": "Eugenio Cunha",
+  "license": "MIT"
+}
